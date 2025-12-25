@@ -6,7 +6,7 @@ import os
 from openai import OpenAI
 import csv, io
 # ---------- config ----------
-API_KEY = "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"
+API_KEY = os.getenv("OPEN_ROUTER_API_KEY")
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=API_KEY,
