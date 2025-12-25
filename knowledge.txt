@@ -1,0 +1,4 @@
+We sell two products:
+- Mango Juice (250 ml, $2)
+- Orange Juice (500 ml, $3)
+Headquarters: Berlin, Germany.
